@@ -5,7 +5,7 @@ int main()
 {
     string name;
     int age;
-
+    cout <<"hello";
     cout << "Nhap ten: ";
     cin >> name;
 
